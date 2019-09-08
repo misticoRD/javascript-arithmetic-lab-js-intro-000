@@ -14,6 +14,10 @@ let divide = function(a, b) {
   return a/b;
 }
 
-let inc = function(n){
+let inc = function(n) {
+  return n += 1;
+}
+
+let dec = function(n) {
   return n += 1;
 }
