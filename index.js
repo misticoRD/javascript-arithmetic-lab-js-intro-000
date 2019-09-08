@@ -21,3 +21,7 @@ let inc = function(n) {
 let dec = function(n) {
   return n -= 1;
 }
+
+let makeInt = function(a){
+  return parseInt(a, 10);
+}
