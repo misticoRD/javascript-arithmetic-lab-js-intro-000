@@ -1,3 +1,3 @@
-var add = function(a, ) {
+let add = function(a, b) {
   return a + b;
 }
