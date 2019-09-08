@@ -13,3 +13,7 @@ let multiply = function(a,b) {
 let divide = function(a, b) {
   return a/b;
 }
+
+let inc = function(n){
+  return n += 1;
+}
