@@ -2,7 +2,7 @@ let add = function(a, b) {
   return a + b;
 }
 
-let substract = function(a,b) {
+let subtract = function(a,b) {
   return a - b;
 }
 
